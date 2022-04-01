@@ -9,5 +9,16 @@ provider:
   runtime: nodejs14.x
 
 functions:
-  hello:
-    handler: handler.hello
+  rest:
+    handler: handler.rest
+    events:
+      - http:
+          method: get
+          cors: true
+          path: /rest
+  http:
+    handler: handler.http
+    events:
+      - httpApi:
+          method: get
+          path: /http
