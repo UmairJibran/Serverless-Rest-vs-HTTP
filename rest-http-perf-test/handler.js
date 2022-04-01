@@ -1,6 +1,6 @@
 'use strict';
 
-module.exports.rest = async event => {
+module.exports.rest = async () => {
   return {
     statusCode: 200,
     body: JSON.stringify({
@@ -9,7 +9,7 @@ module.exports.rest = async event => {
   };
 };
 
-module.exports.http = async event => {
+module.exports.http = async () => {
   return {
     statusCode: 200,
     body: JSON.stringify({
