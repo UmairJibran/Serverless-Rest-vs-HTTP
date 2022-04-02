@@ -9,105 +9,56 @@ The following services were used
 
 Result for 50 API calls:
 
-
-HTTP: 1.187s
-HTTP: 1.499s
-HTTP: 914.113ms
-HTTP: 781.376ms
-HTTP: 862.082ms
-HTTP: 840.261ms
-HTTP: 755.616ms
-HTTP: 849.095ms
-HTTP: 830.34ms
-HTTP: 782.825ms
-HTTP: 927.792ms
-HTTP: 750.073ms
-HTTP: 935.059ms
-HTTP: 899.252ms
-HTTP: 1.804s
-HTTP: 962.164ms
-HTTP: 774.653ms
-HTTP: 737.918ms
-HTTP: 856.994ms
-HTTP: 766.19ms
-HTTP: 764.295ms
-HTTP: 815.133ms
-HTTP: 853.856ms
-HTTP: 1.029s
-HTTP: 794.151ms
-HTTP: 874.455ms
-HTTP: 925.284ms
-HTTP: 1.118s
-HTTP: 1.248s
-HTTP: 1.244s
-HTTP: 838.825ms
-HTTP: 745.3ms
-HTTP: 1.062s
-HTTP: 801.297ms
-HTTP: 761.213ms
-HTTP: 774.291ms
-HTTP: 801.707ms
-HTTP: 1.186s
-HTTP: 1.040s
-HTTP: 763.572ms
-HTTP: 771.044ms
-HTTP: 742.591ms
-HTTP: 787.379ms
-HTTP: 803.892ms
-HTTP: 724.787ms
-HTTP: 752.257ms
-HTTP: 818.22ms
-HTTP: 840.877ms
-HTTP: 941.861ms
-HTTP: 870.243ms
-
-REST: 692.856ms
-REST: 1.254s
-REST: 909.649ms
-REST: 729.378ms
-REST: 792.229ms
-REST: 709.415ms
-REST: 1.236s
-REST: 739.74ms
-REST: 1.175s
-REST: 1.798s
-REST: 785.337ms
-REST: 770.3ms
-REST: 722.454ms
-REST: 919.41ms
-REST: 789.888ms
-REST: 1.183s
-REST: 502.097ms
-REST: 886.253ms
-REST: 413.32ms
-REST: 483.608ms
-REST: 402.592ms
-REST: 431.001ms
-REST: 811.304ms
-REST: 418.182ms
-REST: 936.039ms
-REST: 825.082ms
-REST: 455.396ms
-REST: 933.133ms
-REST: 895.181ms
-REST: 519.906ms
-REST: 459.623ms
-REST: 549.22ms
-REST: 817.875ms
-REST: 923.347ms
-REST: 901.011ms
-REST: 492.866ms
-REST: 461.291ms
-REST: 458.348ms
-REST: 1.545s
-REST: 899.79ms
-REST: 387.021ms
-REST: 769.038ms
-REST: 415.668ms
-REST: 767.911ms
-REST: 383.88ms
-REST: 871.432ms
-REST: 435.566ms
-REST: 397.686ms
-REST: 542.673ms
-REST: 900.726ms
+|  **HTTP** | **REST**  |
+|----------:|-----------|
+|           |           |
+| 1.187s    | 692.856ms |
+| 1.499s    | 1.254s    |
+| 914.113ms | 909.649ms |
+| 781.376ms | 729.378ms |
+| 862.082ms | 792.229ms |
+| 840.261ms | 709.415ms |
+| 755.616ms | 1.236s    |
+| 849.095ms | 739.74ms  |
+| 830.34ms  | 1.175s    |
+| 782.825ms | 1.798s    |
+| 927.792ms | 785.337ms |
+| 750.073ms | 770.3ms   |
+| 935.059ms | 722.454ms |
+| 899.252ms | 919.41ms  |
+| 1.804s    | 789.888ms |
+| 962.164ms | 1.183s    |
+| 774.653ms | 502.097ms |
+| 737.918ms | 886.253ms |
+| 856.994ms | 413.32ms  |
+| 766.19ms  | 483.608ms |
+| 764.295ms | 402.592ms |
+| 815.133ms | 431.001ms |
+| 853.856ms | 811.304ms |
+| 1.029s    | 418.182ms |
+| 794.151ms | 936.039ms |
+| 874.455ms | 825.082ms |
+| 925.284ms | 455.396ms |
+| 1.118s    | 933.133ms |
+| 1.248s    | 895.181ms |
+| 1.244s    | 519.906ms |
+| 838.825ms | 459.623ms |
+| 745.3ms   | 549.22ms  |
+| 1.062s    | 817.875ms |
+| 801.297ms | 923.347ms |
+| 761.213ms | 901.011ms |
+| 774.291ms | 492.866ms |
+| 801.707ms | 461.291ms |
+| 1.186s    | 458.348ms |
+| 1.040s    | 1.545s    |
+| 763.572ms | 899.79ms  |
+| 771.044ms | 387.021ms |
+| 742.591ms | 769.038ms |
+| 787.379ms | 415.668ms |
+| 803.892ms | 767.911ms |
+| 724.787ms | 383.88ms  |
+| 752.257ms | 871.432ms |
+| 818.22ms  | 435.566ms |
+| 840.877ms | 397.686ms |
+| 941.861ms | 542.673ms |
+| 870.243ms | 900.726ms |
