@@ -3,5 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "UmairJibran <umairjibran7@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.2.3"
+  },
+  "type": "module"
 }
